@@ -1,0 +1,19 @@
+{
+    "type": "mysql",
+    "host": "mysql742.umbler.com",
+    "port": 41890,
+    "username": "db_maktuber",
+    "password": "z5H(3k#X}AjG",
+    "database": "db_maktuber",
+    "entities": [
+        "./src/models/*.ts"
+    ],
+    "migrations": [
+        "./src/database/migrations/*.ts"
+    ],
+    "cli":  {
+        "migrationsDir":  "./src/database/migrations"
+    }
+       
+    
+}
