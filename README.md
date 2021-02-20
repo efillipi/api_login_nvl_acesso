@@ -40,13 +40,13 @@ Durante o desenvolvimento, foi ensinado sobre relacionamento `Many to Many`, uti
 
 ## ☑️ Funcionalidades
 
-[ ] Cadastro de Users <br/>
-[ ] Autenticacao de Users<br/>
-[ ] Cadastro de Permissões<br/>
-[ ] Cadastro de Roles<br/>
-[ ] Cadastro de Produtos<br/>
-[ ] Relacionamento User_Roles<br/>
-[ ] Relacionamento Permission_Roles<br/>
+[x] Cadastro de Users <br/>
+[x] Autenticacao de Users<br/>
+[x] Cadastro de Permissões<br/>
+[x] Cadastro de Roles<br/>
+[x] Cadastro de Produtos<br/>
+[x] Relacionamento User_Roles<br/>
+[x] Relacionamento Permission_Roles<br/>
 
 ---
 
