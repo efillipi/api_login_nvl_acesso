@@ -26,7 +26,7 @@ class PermissionController {
     return response.json(product);
   }
 
-  async index(request: Request, response: Response) {
+  async show(request: Request, response: Response) {
     const productRepository = getCustomRepository(ProductRepository);
 
     const products = await productRepository.find();
@@ -34,7 +34,7 @@ class PermissionController {
     return response.json(products);
   }
 
-  async show(request: Request, response: Response) {
+  async byid(request: Request, response: Response) {
     const productRepository = getCustomRepository(ProductRepository);
 
     const { id } = request.params;

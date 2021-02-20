@@ -1,5 +1,5 @@
 {
-    "type": "mysql",
+    "type": "mysql", 
     "host": "mysql742.umbler.com",
     "port": 41890,
     "username": "db_maktuber",
