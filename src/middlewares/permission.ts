@@ -30,6 +30,7 @@ function is(role: String[]) {
     const user = await decoder(request);
 
     const userRoles = user?.roles.map((role) => role.name);
+    console.log(userRoles)
   
     const existsRoles = userRoles?.some((r) => role.includes(r));
 
