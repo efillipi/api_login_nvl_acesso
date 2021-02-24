@@ -50,4 +50,4 @@ Durante o desenvolvimento, foi ensinado sobre relacionamento `Many to Many`, uti
 
 ---
 
-<h3 align="center">Desenvolvido por  💜  Daniele Leão Evangelista </h3>
+<h3 align="center">Desenvolvido por  ♠️ Edney Fillipi </h3>
