@@ -26,7 +26,7 @@ Durante o desenvolvimento, foi ensinado sobre relacionamento `Many to Many`, uti
 ```bash
 
     // Clonar repositório
-    $ git clone https://github.com/danileao/permissions_users
+    $ git clone https://github.com/efillipi/api_login_nvl_acesso.git
 
     // Acessar diretório
     $ cd permissions_users
